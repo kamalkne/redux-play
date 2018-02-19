@@ -1,2 +1,2 @@
-# rudux-play
+# redux-play
 Basic Redux concepts.
